@@ -10,3 +10,7 @@
 git status 
 kubectl status
 ```
+
+- [ ] this test
+- [ ] hello world
+-  [x] my list
